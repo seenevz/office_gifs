@@ -22,6 +22,14 @@ header {
   border-radius: 15px;
   width: 300px;
   margin: 0 auto;
+  line-height: 12vh;
+}
+
+header h1 {
+  display: inline-block;
+  margin: 0px;
+  line-height: 1.5;
+  vertical-align: middle;
 }
 
 main {
@@ -78,8 +86,4 @@ footer button {
   height: 60%;
   width: 125px;
   font-size: 15px;
-}
-
-header h1 {
-  margin: 0px;
 }
